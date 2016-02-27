@@ -13,6 +13,6 @@ Get the app:
 ```go get github.com/sunheng/pomodoro-sauce```
 
 Install:
-```go install```
+```go install github.com/sunheng/pomodoro-sauce```
 
 Run ```pomodoro-sauce``` to enter the program.
